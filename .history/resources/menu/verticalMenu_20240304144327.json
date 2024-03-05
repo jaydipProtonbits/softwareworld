@@ -1,0 +1,144 @@
+{
+  "menu": [
+    {
+      "url": "admin/dashboard",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons ti ti-settings",
+      "slug": "dashboard",
+      "role": "admin"
+    },
+    {
+      "url": "admin/service",
+      "icon": "menu-icon tf-icons ti ti-color-swatch",
+      "name": "Service",
+      "slug": "service.index",
+      "role": "admin"
+    },
+    {
+      "url": "admin/listing",
+      "icon": "menu-icon tf-icons ti ti-color-swatch",
+      "name": "Software",
+      "slug": "listing.index",
+      "role": "admin"
+    },
+    {
+      "url": "admin/claims",
+      "icon": "menu-icon tf-icons ti ti-color-swatch",
+      "name": "Claims",
+      "slug": "claims_list_view",
+      "role": "admin"
+    },
+    {
+      "url": "admin/type",
+      "name": "Types",
+      "icon": "menu-icon tf-icons ti ti-list",
+      "slug": "type.index",
+      "role": "admin"
+    },
+    {
+      "url": "admin/category",
+      "name": "Categories",
+      "icon": "menu-icon tf-icons ti ti-list",
+      "slug": "category.index",
+      "role": "admin"
+    },
+    {
+      "url": "admin/users",
+      "name": "Users",
+      "icon": "menu-icon tf-icons ti ti-users",
+      "slug": "users.index",
+      "role": "admin"
+    },
+    {
+      "url": "admin/industries",
+      "name": "Industries",
+      "icon": "menu-icon tf-icons ti ti-building-factory-2",
+      "slug": "industries.index",
+      "role": "admin"
+    },
+    {
+      "url": "admin/features",
+      "name": "Features",
+      "icon": "menu-icon tf-icons ti ti-components",
+      "slug": "features.index",
+      "role": "admin"
+    },
+    {
+      "url": "admin/setting/scripts",
+      "name": "Scripts",
+      "icon": "menu-icon tf-icons ti ti-color-swatch",
+      "slug": "viewScripts",
+      "role": "admin"
+    },
+    {
+      "url": "admin/page",
+      "name": "Page",
+      "icon": "menu-icon tf-icons ti ti-file",
+      "slug": "page.index",
+      "role": "admin"
+    },
+    {
+      "url": "admin/filter",
+      "name": "Filters",
+      "icon": "menu-icon tf-icons ti ti-filter",
+      "slug": "filter.index",
+      "role": "admin"
+    },
+    {
+      "url": "admin/clogout",
+      "name": "Logout",
+      "icon": "menu-icon tf-icons ti ti-logout",
+      "slug": "admin/clogout",
+      "role": "admin"
+    },
+    {
+      "url": "vendor/profile",
+      "name": "Profile",
+      "icon": "menu-icon tf-icons ti ti-home",
+      "slug": "profile.index",
+      "role": "vendor"
+    },
+    {
+      "url": "vendor/listing",
+      "name": "Listings",
+      "icon": "menu-icon tf-icons ti ti-news",
+      "slug": "user_listing",
+      "role": "vendor"
+    },
+    {
+      "url": "vendor/reviews",
+      "name": "Reviews",
+      "icon": "menu-icon tf-icons ti ti-star",
+      "slug": "reviews",
+      "role": "vendor"
+    },
+    {
+      "url": "vendor/badges",
+      "name": "Get Badge",
+      "icon": "menu-icon tf-icons ti ti-award",
+      "slug": "badges",
+      "role": "vendor"
+    },
+    {
+      "url": "vendor/analytics",
+      "name": "Analytics",
+      "icon": "menu-icon tf-icons ti ti-chart-bar",
+      "slug": "analytics",
+      "role": "vendor"
+    },
+    {
+      "url": "vendor/settings",
+      "name": "Settings",
+      "icon": "menu-icon tf-icons ti ti-settings",
+      "slug": "settings",
+      "role": "vendor"
+    },
+    {
+      "url": "vendor/logout",
+      "name": "Logout",
+      "icon": "menu-icon tf-icons ti ti-logout",
+      "slug": "admin/clogout",
+      "role": "vendor"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="close_button" data-name="close button" transform="translate(-814 -4777)">
+    <g id="Ellipse_44" data-name="Ellipse 44" transform="translate(814 4777)" fill="none" stroke="#fff" stroke-width="2">
+      <circle cx="30" cy="30" r="30" stroke="none"/>
+      <circle cx="30" cy="30" r="29" fill="none"/>
+    </g>
+    <g id="Group_2813" data-name="Group 2813" transform="translate(3522.521 829.556) rotate(45)">
+      <line id="Line_11520" data-name="Line 11520" y2="31.956" transform="translate(918.478 4690.5)" fill="none" stroke="#fff" stroke-width="2"/>
+      <line id="Line_11521" data-name="Line 11521" y2="31.956" transform="translate(934.456 4706.478) rotate(90)" fill="none" stroke="#fff" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
