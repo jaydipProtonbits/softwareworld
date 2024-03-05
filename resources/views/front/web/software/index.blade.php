@@ -372,9 +372,12 @@
                                     <p class="s-fonts">
                                         @foreach (languagesSupported() as $key => $value)
                                             @if (in_array($key, $listing->getMeta('languages_supported', [])))
-                                                {{ $value }}
+                                            @php
+                                                $supportedLanguages[] = $value;
+                                            @endphp
                                             @endif
                                         @endforeach
+                                        {{ implode(', ',$supportedLanguages) }}
                                     </p>
                                 </div>
                                 <div class="col-lg-5 mb-4">
@@ -494,7 +497,7 @@
                                 @endif
                                 @if (!empty($listing->getMeta('trail_duration')))
                                     <div class="col-lg-3">
-                                        <h4>Free Trial</h4>
+                                        <h4>Free Trial1</h4>
                                         <ul class="list-group list-inline gap-3">
                                             <li class="s-fonts"><img
                                                     src="{{ asset('assets/img/icons/misc/check-round.svg') }}">
